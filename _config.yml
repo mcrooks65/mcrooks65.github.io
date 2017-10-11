@@ -1,10 +1,10 @@
 # Site settings
-title: 
+title: Knee Deep in the Code
 header-img: img/home-bg.png
 email: mfcrooks@gmail.com
 copyright_name: mcrooks65
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Teach Me Plenty
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mcrooks65
