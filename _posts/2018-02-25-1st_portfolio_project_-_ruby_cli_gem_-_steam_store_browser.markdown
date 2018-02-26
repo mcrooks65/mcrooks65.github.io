@@ -23,17 +23,17 @@ Here’s a quick tour of what i’ve coded for this project: Feel free to instal
 
 This is the main menu - Simple, and easily expandable!
 
-![(https://imgur.com/pCNNGYM)]
+![](https://imgur.com/pCNNGYM)
 
 Entering 1 to select “Matt’s Picks” - Brings up a list of my current top 5 recommended games.
 
-![(https://imgur.com/nclrk8Q://)]
+![](https://imgur.com/nclrk8Q)
 
 Currently there is a problem drilling down into store pages of games that require age verification.  This is one problem I haven’t figured out a solution to yet but am curious to ask my instructor about.  
 
 Let’s select a couple games to look at the details of, how about the first two?
 
-![(https://imgur.com/Vp4BHKu)]
+![](https://imgur.com/Vp4BHKu)
 
 Beware of shameless self promotion!  (FreeHolder is the first game developed by RogueWare, an Indie Dev studio I started with my brother some years ago.) 
 Currently the details you can get off any valid title on Steam are:
@@ -46,7 +46,7 @@ There’s of course room to expand this for more details.  It would be easy enou
 
 Going back into the main menu after exhausting “Matt’s Pick’s” you might want to look up some games of your own.  Well i’ve expanded on the program with a function to do just that!  The second option in the main menu is to search for a game by its title.  Let’s try ‘ftl’ for the classic indie hit Faster Than Light.
 
-![(https://imgur.com/JMznWzU)]
+![](https://imgur.com/JMznWzU)
 
 It worked!  Currently it will break the program if you try to search for a game that would require age verification, or if the search comes up empty.  I don’t think these would be too hard to address but at this point i’d like to see what the instructor thinks.  This feature wasn’t a requirement just an easily expandable feature thanks to the code i was already required to produce for the Matt’s Picks list.
 
