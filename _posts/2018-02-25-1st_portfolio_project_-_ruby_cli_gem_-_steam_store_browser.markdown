@@ -19,7 +19,7 @@ It’s taken some time to feel like i’ve wrapped my mind around object oriente
 5. Use good OO design patterns. You should be creating a collection of objects - not hashes.
 
 At this point my CLI gem should meet every requirement on this list.  However i’m sure since it’s my first attempt to create an Object Oriented program in Ruby completely from scratch and without any of the tests to drive me from objective to objective like in the labs, there will be a need for some refactoring. That’s okay!  I welcome any chance to improve my code and really look forward to getting to discuss it with my instructor.  As i’ve been learning, and am starting to feel more confident with my abilities, i’ve found myself willing to expand features beyond the original requirements.  
-Here’s a quick tour of what i’ve coded for this project: Feel free to install the gem yourself and play with it! (Steam Browser github repo: https://github.com/mcrooks65/steam-browser)
+Here’s a quick tour of what i’ve coded for this project: Feel free to install the gem yourself and play with it! (Steam Browser github repo: [Link to steam browser github repo](https://github.com/mcrooks65/steam-browser))
 
 This is the main menu - Simple, and easily expandable!
 
