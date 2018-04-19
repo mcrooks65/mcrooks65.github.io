@@ -1,12 +1,12 @@
 ---
 layout: post
 title:      "2nd Portfolio Project - MVC Sinatra App - GameDev Manager"
-date:       2018-04-19 05:34:29 +0000
+date:       2018-04-19 01:34:29 -0400
 permalink:  2nd_portfolio_project_-_mvc_sinatra_app_-_gamedev_manager
 ---
 
 
-It's taken a lot longer to reach this point than I would have imagined but i'm anything but discouraged.  If anything every hurdle surmounted bolsters my confidence that i can indeed go the distance if i can simply continue to commit enough time and energy.  When I first approached this project i felt confident i could knock it out in a week, the previous labs, lessons and video lectures all seemed to make sense at the time of introduction and i figured it would be no problem to bring this knowledge to a fresh project.  I suppose I wasn't fully aware of just how much material i had gone through since Object Oriented Ruby and the last major project.  I'll try to summarize all the different major languages and frameworks I was taught leading up to this project.  
+It's taken a lot longer to reach this point than I would have imagined but i'm anything but discouraged.  If anything every hurdle surmounted bolsters my confidence that i can indeed go the distance if i can simply continue to commit enough time and energy.  When I first approached this project i felt confident I could knock it out in a week, the previous labs, lessons and video lectures all seemed to make sense at the time of introduction and i figured it would be no problem to bring this knowledge to a fresh project.  I suppose I wasn't fully aware of just how much material i had gone through since Object Oriented Ruby and the last major project.  I'll try to summarize all the different major languages and frameworks I was taught leading up to this project.  
 
 First I learned SQL (Structured Query Language) the universal database language that is rather fundamental to any serious web project.  After learning how DB's are created and accessed and edited, we then learned how to make our own ORM (Object Relational Map), which essentially allows us to create a Ruby object that is associated with a DB table so you can essentially access/edit a database via an object.  After making our own ORM's with much thought and effort it was then revealed  that there is already a standard ruby gem for ORM's that would take all the pain of having to code your own away called ActiveRecord.  After learning how to use ActiveRecord and confirming it was indeed easier, we were introduced to Rack, which is effectively an incredibly thin web application framework.  Working with Rack was our first chance to build web applications, and introduced us to http requests and url routing.  After all of that finally we got to Sinatra, which is a more robust, although still far paired down comparied to Rails, web application framework.  It was build on top of Rack so included everything Rack has but much more like Sessions and cookies, more advanced layout and templating with the introduction of a templating language called ERB (Embedded Ruby) which would allow us to apply Ruby logic directly into displays to create dynamic webpages.  All of this AND one more major concept would play a large role in this project: MVC.
 
@@ -63,11 +63,5 @@ Edit Game Page
 
 ![](https://i.imgur.com/U4BDBOw.png)
 
-It took a long time to find my stride on this project, as Ifound myself having to constantly go back and review materials I may have rushed through, but in the end there's no better way to affirm all the knowledge than to force yourself to bring it all to the table in one massive project starting from scratch.  This might be my preferred method of learning.  I might only get a surface level of knowledge during the labs and lectures, and don't really start getting everything down until project time, or perhaps this was just a particularly cumbersome section.  Whatever the case, i'm proud of what i've achieved so far and am looking forward to seeing how Rails changes the game yet again, as it is i believe an order of magnitude more powerful than Sinatra as a web application framework.  Just what does that mean?  Tune in to the next entry to find out!
-
-
-
-
-
-
+It took a long time to find my stride on this project, as I found myself having to constantly go back and review materials I may have rushed through, but in the end there's no better way to affirm all the knowledge than to force yourself to bring it all to the table in one massive project starting from scratch.  This might be my preferred method of learning.  I might only get a surface level of knowledge during the labs and lectures, and don't really start getting everything down until project time, or perhaps this was just a particularly cumbersome section.  Whatever the case, i'm proud of what i've achieved so far and am looking forward to seeing how Rails changes the game yet again, as it is i believe an order of magnitude more powerful than Sinatra as a web application framework.  Just what does that mean?  Tune in to the next entry to find out!
 
