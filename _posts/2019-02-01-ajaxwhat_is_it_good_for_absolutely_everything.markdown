@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "Ajax - What is it good for?  Absolutely everything."
+title:      "Ajax - What is it good for?  Absolutely everything"
 date:       2019-02-01 04:34:51 -0500
 permalink:  ajaxwhat_is_it_good_for_absolutely_everything
 ---
