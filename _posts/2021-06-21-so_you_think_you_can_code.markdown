@@ -21,6 +21,7 @@ It's hard to understate the neccessity of tenacity. You must respect the struggl
 ![](https://onlinepethealth.com/wp-content/uploads/2019/12/Dunning-Kruger.jpg)
 
 
+
 **3) Getting overwhelmed by the scope of a project **
 
 There's a trick i found when this sort of thing inevitably happens on your path to mastery.  Take smaller bites.  No huge project needs every 't' crossed and 'i' dotted all at once.  You should divide and conquer your project, prioritize what to work on, and only ever take a bite you know you can handle.  It's also important when building any new project that you build 'vertically' not 'horizontally'.  This is especially important as a full stack developer because there are many interacting layers to your applications and your best bet is to connect one thing up to all of those layers before making any layers 'wider'.  For example It's good practice to make sure your rails backend and react-redux front end are communicating properly before you start adding tons of new schema to your database or building out a front-end feature.  This idea of vertical vs horizontal project building is well explained here [https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-planning-tips.md](https://github.com/learn-co-students/js-spa-project-instructions-online-web-sp-000/blob/master/project-planning-tips.md) under the 'Build vertically, not horizontally' header.
