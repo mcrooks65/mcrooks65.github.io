@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "React-Redux RTFD"
-date:       2021-06-30 23:25:33 +0000
+date:       2021-06-30 19:25:33 -0400
 permalink:  react-redux_rtfd
 ---
 
