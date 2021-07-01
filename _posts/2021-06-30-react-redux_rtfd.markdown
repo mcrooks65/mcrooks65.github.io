@@ -6,7 +6,7 @@ permalink:  react-redux_rtfd
 ---
 
 
-It's come to my attention that even though i've managed to put together my entire final project, my understanding of the intricacies of the React-Redux framework is still lacking.  This blog entry is my attempt to demystify this framework by breaking down it's most key components as explicitly as possible.  In no particular order i will go through each concept as  thoroughly as I can manage.  I will make heavy use of the official documentation and quote it where neccessary but also will relate each concept to my projec where applicable and offer  
+It's come to my attention that even though i've managed to put together my entire final project, my understanding of the intricacies of the React-Redux framework is still lacking.  This blog entry is my attempt to demystify this framework by breaking down it's most key components as explicitly as possible.  In no particular order I will go through each concept as  thoroughly as I can manage.  I will make heavy use of the official documentation and quote it where neccessary but also will relate each concept to my project where applicable.
 
 **1) Create Store**
 
